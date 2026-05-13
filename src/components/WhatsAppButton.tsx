@@ -4,7 +4,7 @@ import { X, MapPin, Navigation } from 'lucide-react';
 
 const WA_NUMBER = '917667656723';
 const WA_MESSAGE = encodeURIComponent('Hello! I want to know more about Shaurya Math coaching.');
-const MAPS_LINK = 'https://www.google.com/maps/search/Shaurya+Math+Coaching+Darbhanga+Bihar/@26.1554,85.8943,15z';
+const MAPS_LINK = 'https://maps.app.goo.gl/2ZbUibKgV1GQP8iA6';
 
 export default function WhatsAppButton() {
   const [waOpen, setWaOpen] = useState(false);
